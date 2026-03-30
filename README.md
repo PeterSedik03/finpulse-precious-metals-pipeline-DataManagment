@@ -165,7 +165,6 @@ FinPulse/
 ├── README.md                          # This file
 ├── LICENSE
 ├── .gitignore
-├── docker-compose.yaml                # Docker Compose orchestration
 │
 ├── notebooks/
 │   ├── NB01_Data_Acquisition.ipynb    # Price download + news scraping
@@ -179,12 +178,6 @@ FinPulse/
 │   ├── FinPulse_Report_IT.pdf         # Full project report (Italian)
 │   ├── FinPulse_Presentation_EN.pptx  # 18-slide presentation (English)
 │   └── FinPulse_Presentation_IT.pptx  # 18-slide presentation (Italian)
-│
-├── images/                            # Screenshots for README
-│   └── ...
-│
-└── data/
-    └── README.md                      # Instructions for data regeneration
 ```
 
 ---
