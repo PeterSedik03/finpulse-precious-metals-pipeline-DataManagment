@@ -134,17 +134,14 @@ No external API keys required — all data sources are free and open.
 ### Setup
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/FinPulse.git
-cd FinPulse
 
-# 2. Start all services
+# 1. Start all services
 docker compose up -d
 
-# 3. Access JupyterLab
+# 2. Access JupyterLab
 # Open http://localhost:8888 in your browser
 
-# 4. Execute notebooks in strict sequential order
+# 3. Execute notebooks in strict sequential order
 # NB01 → NB02 → NB03 → NB04 → NB05
 ```
 
