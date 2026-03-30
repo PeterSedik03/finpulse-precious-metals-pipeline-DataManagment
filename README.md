@@ -204,28 +204,6 @@ FinPulse/
 
 ---
 
-## 📸 Screenshots
-
-<!-- 
-Replace these placeholders with your actual screenshots.
-Save images in the images/ folder and update the paths below.
--->
-
-<!--
-### Neo4j Asset Correlation Network
-![Neo4j Graph](images/neo4j_graph.png)
-
-### Gold Price Trend (2024–2026)
-![Gold Price](images/gold_price_chart.png)
-
-### Correlation Heatmap
-![Correlation](images/correlation_heatmap.png)
--->
-
-> 📌 *Screenshots will be added after running the pipeline.*
-
----
-
 ## 🔑 Key Technical Lessons
 
 - **py2neo type compatibility:** Neo4j drivers reject `numpy.float64`/`int64` — explicit casting to native Python `float()`/`int()` is required.
